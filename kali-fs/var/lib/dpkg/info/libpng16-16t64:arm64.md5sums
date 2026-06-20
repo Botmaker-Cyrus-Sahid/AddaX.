@@ -1,0 +1,10 @@
+5b8776f1be9e258a2e80e503e5e856a1  usr/lib/aarch64-linux-gnu/libpng16.so.16.44.0
+d9e347707082f4d44319de1868cc129e  usr/share/doc-base/libpng16-16t64.libpng16
+c5ab92f940ea88916bb92ca3e8fdaeba  usr/share/doc/libpng16-16t64/ANNOUNCE
+a7b2d517a237570854668d0e99267bc4  usr/share/doc/libpng16-16t64/README.gz
+4a82aa11a927fdf7473d14ccdfeb819b  usr/share/doc/libpng16-16t64/TODO
+f4d11733d5b6fe166f7cd73d79c76470  usr/share/doc/libpng16-16t64/changelog.Debian.gz
+a411d725e748313eff2a2ba6561807b7  usr/share/doc/libpng16-16t64/changelog.gz
+d12c3b5996f7e3bbeb7149921b45fb66  usr/share/doc/libpng16-16t64/copyright
+ac20aa417d3e2a1913f1b24f266921e0  usr/share/doc/libpng16-16t64/libpng-manual.txt.gz
+f75edcfbd56fb2fa06b67d2a87f1f9de  usr/share/lintian/overrides/libpng16-16t64

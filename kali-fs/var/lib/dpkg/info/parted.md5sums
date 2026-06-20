@@ -1,0 +1,5 @@
+28a2ded4527dc3059bc5a94c8c1d4381  usr/sbin/parted
+f6c70957519ab9db0745040d93daac3e  usr/sbin/partprobe
+bb4762426ae32a70183d9ae377906876  usr/share/lintian/overrides/parted
+5fc5beba57a566d1197c993f10169a6a  usr/share/man/man8/parted.8.gz
+17be60c8fa24340a6b66427220854cc1  usr/share/man/man8/partprobe.8.gz

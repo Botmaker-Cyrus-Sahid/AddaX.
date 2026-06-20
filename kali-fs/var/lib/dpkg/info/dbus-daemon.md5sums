@@ -1,0 +1,10 @@
+65e2a49ea84043162fd40de42d9dc2b6  usr/bin/dbus-daemon
+86ef01f5259357e686d17d6014319bfb  usr/bin/dbus-run-session
+e8b6c1c6d9b10aef56adccd5d81ff929  usr/lib/tmpfiles.d/dbus.conf
+650ea885a6ae020cf479705368fd4e68  usr/share/doc/dbus-daemon/AUTHORS.gz
+cbfd8388396bf51aaea2e57f4237b884  usr/share/doc/dbus-daemon/NEWS.gz
+e0de3e4a9ccbe27356e3cc933db9c6ca  usr/share/doc/dbus-daemon/README.gz
+37420b671b06e1e09d6822245e5c1037  usr/share/doc/dbus-daemon/changelog.Debian.gz
+79b2079e7065cfdf074c8584e4755878  usr/share/doc/dbus-daemon/copyright
+cbd55b2fd44936229833b693481dc5e4  usr/share/man/man1/dbus-daemon.1.gz
+a02b4c5dac1adf70f2b14d4e90afea3c  usr/share/man/man1/dbus-run-session.1.gz

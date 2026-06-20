@@ -1,0 +1,7 @@
+0c5b390615f965afc588b32bd0c9f803  usr/lib/aarch64-linux-gnu/libtirpc.so.3.0.0
+4046f568311dfd1c51f46bde571630e4  usr/share/doc/libtirpc3t64/NEWS.Debian.gz
+ec0e6bc8d6342517c055b6dcf62f308d  usr/share/doc/libtirpc3t64/changelog.Debian.arm64.gz
+535197ea1f9775405522f76673468a81  usr/share/doc/libtirpc3t64/changelog.Debian.gz
+6c59c7997133406648c688473107d7e9  usr/share/doc/libtirpc3t64/changelog.gz
+f903adb3b014fced5959cacfe163cf2d  usr/share/doc/libtirpc3t64/copyright
+8e590275f4cef8db0ee3e4d04ecd6766  usr/share/lintian/overrides/libtirpc3t64

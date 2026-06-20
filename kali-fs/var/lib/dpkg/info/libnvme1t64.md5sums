@@ -1,0 +1,5 @@
+ed0f944ccc0366120fb3b926b02c55d6  usr/lib/aarch64-linux-gnu/libnvme-mi.so.1.11.1
+4d082de9fcc4c699d38416a85adb7682  usr/lib/aarch64-linux-gnu/libnvme.so.1.11.1
+b9d4050364b88191c856f4a641756df4  usr/share/doc/libnvme1t64/changelog.Debian.gz
+fa1b9df270e6e603eba59ba071422f47  usr/share/doc/libnvme1t64/copyright
+3a1816abb6d357fa5fe7182bb9b5df88  usr/share/lintian/overrides/libnvme1t64

@@ -1,0 +1,26 @@
+Template: dash/ineffectivediversion
+Type: error
+Description: /bin/sh is ineffectively diverted
+ A diversion of /bin/sh was found.
+ .
+ After this update, dash will be recorded in the dpkg database at its new path, /usr/bin/sh. Since there is no diversion set for /usr/bin/sh, the existing diversion for /bin/sh will no longer work.
+ .
+ To keep using your preferred default shell, you need to set up another diversion for /usr/bin/sh. If you don't do so now, your changes to /bin/sh will be lost after this upgrade.
+ .
+ Once the upgrade is complete, the diversion for /bin/sh will no longer be needed and can be removed.
+Description-be.UTF-8: Перанакіраваньне /bin/sh не будзе працаваць
+ Было знойдзенае перанакіраваньне /bin/sh.
+ .
+ Пасля гэтага абнаўленьня dash будзе запісаны ў базе дадзеных dpkg на новым шляху /usr/bin/sh. Паколькі для /usr/bin/sh перанакіраваньне не настроенае, сучаснае перанакіраваньне для /bin/sh больш не будзе працаваць.
+ .
+ Каб працягваць выкарыстоўваць shell паводле вашага выбару, вам трэба настроіць новае перанакіраваньне для /usr/bin/sh. Калі вы не зробіце гэта зараз, вашая зьмена /bin/sh будзе страчаная пасля гэтага абнаўленьня.
+ .
+ Пасля завяршэньня абнаўленьня перанакіраваньне для /bin/sh больш не будзе патрэбнае і можа быць выдалена.
+Description-sk.UTF-8: /bin/sh je neúčinne presmerovaný
+ Bolo nájdené presmerovanie /bin/sh.
+ .
+ Po tejto aktualizácii bude dash zapísaný v databáze dpkg na novej ceste /usr/bin/sh. Keďže pre /usr/bin/sh nie je nastavené presmerovanie, existujúce presmerovanie pre /bin/sh už nebude fungovať.
+ .
+ Aby ste mohli naďalej používať svoj preferovaný predvolený shell, musíte nastaviť nové presmerovanie pre /usr/bin/sh. Ak to neurobíte teraz, vaše zmeny v /bin/sh budú po tejto aktualizácii stratené.
+ .
+ Po dokončení aktualizácie už nebude presmerovanie pre /bin/sh potrebné a môže byť odstránené.

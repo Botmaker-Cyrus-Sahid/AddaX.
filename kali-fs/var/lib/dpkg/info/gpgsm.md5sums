@@ -1,0 +1,7 @@
+bf555099162fc3b9f190f0e9aa0ead01  usr/bin/gpgsm
+c93f7e76545ca57d7059117727819df8  usr/share/doc/gpgsm/NEWS.Debian.gz
+3eb04d778890966d344c53cf2f9488b8  usr/share/doc/gpgsm/changelog.Debian.arm64.gz
+deddc9050338421f0c91915735d954a3  usr/share/doc/gpgsm/changelog.Debian.gz
+c6a90f24f63ed4a5a9a2de0d03cd64cd  usr/share/doc/gpgsm/changelog.gz
+90f7dba4fc6123134035d0ee445cb4a5  usr/share/doc/gpgsm/copyright
+55f87b10a620cd19aea69ba60daad91c  usr/share/man/man1/gpgsm.1.gz

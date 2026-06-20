@@ -1,0 +1,6 @@
+5c72e84b4a5040333f1f50f01c54a95e  usr/lib/aarch64-linux-gnu/libmount.so.1.1.0
+1e30d61b028710436ab4de578d40b422  usr/share/doc/libmount1/NEWS.Debian.gz
+cab22248ab7fff998f023cfa4634065b  usr/share/doc/libmount1/changelog.Debian.gz
+bdd77197a9bf4f0410e0905bd9bf034a  usr/share/doc/libmount1/changelog.gz
+5c9968f6b211230aac1d99f373a5812a  usr/share/doc/libmount1/copyright
+a7ab388dcf6d6e6af43761ec8e982d94  usr/share/lintian/overrides/libmount1
